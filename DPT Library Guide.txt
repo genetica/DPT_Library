@@ -3,6 +3,7 @@
 ================================================================================
 		Created by Gene Stoltz
 		on 4 April 2013
+		in Notepad++
 		
 --------------------------------------------------------------------------------
 	Index
@@ -182,9 +183,9 @@
 	[...]
 	[...]
 	[...]
-	[d+2+(k-1)*d+1] = k_k_delta_dim_1 -> change in dimension 1 to get to connection k
+	[d+2+(k-1)*d+1] = k_k_delta_dim_1 -> change in dim 1 to get to connection k
 	[...]
-	[d+2+(k-1)*d+d]	= k_k_delta_dim_d -> change in dimension d to get to connection k
+	[d+2+(k-1)*d+d]	= k_k_delta_dim_d -> change in dim d to get to connection k
 
 	Example: 
 		Using an image with 2 dimesions and 4 connectivity
