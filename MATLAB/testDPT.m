@@ -1,0 +1,1 @@
+DPT_Graph = decompositionDPT('chelsea.jpg')Range = [1 10 50 100];Offset = 128;im = reconstructDPT(DPT_Graph, Range, Offset);imshow(im);0823076988
